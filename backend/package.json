@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "node --watch server.js",
-    "build": "node server.js",
-    "vercel-build": "echo hello"
+    "dev": "node server.js"
   },
   "keywords": [],
   "author": "",
